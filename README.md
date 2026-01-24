@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivansh Agarwal
 
-🚀 Full-Stack & AI Engineer building real-world products for hiring, careers, and interviews.
+🚀 Full-Stack & AI Engineer building real-world products .
 
 I build **production-grade platforms** that combine  
 **AI, real-time systems, and scalable web architectures.**

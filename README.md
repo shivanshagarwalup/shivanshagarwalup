@@ -83,6 +83,6 @@ AI-powered system for:
 ---
 
 <p align="center">
-  <b>⭐ I build products, not just projects.</b><br/>
+  <b>⭐ I build products,not just projects.</b><br/>
   <i>Engineering for scale, clarity, and impact.</i>
 </p>
